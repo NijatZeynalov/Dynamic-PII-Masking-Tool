@@ -23,7 +23,7 @@ A real-time PII (Personally Identifiable Information) detection and masking tool
 - GPU acceleration
 - Multi-threading support
 
-## 🛠Installation
+## Installation
 
 1. Clone the repository
 
